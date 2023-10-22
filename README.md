@@ -50,16 +50,6 @@ Below are key features and instructions for using the service.
 
 - **Parallel Tasks (N)**: Users can specify the maximum number of parallel tasks by providing the `--maxParallelTasks` flag when running the service. Adjust this value to match the system's capacity and performance requirements.
 
-## Use Cases
-
-- **Education**: The service is suitable for educational applications, helping students understand arithmetic progressions.
-
-- **Workload Management**: Businesses can use the service to manage and optimize workload distribution in a concurrent environment.
-
-- **Task Scheduling**: Users can schedule tasks to run concurrently while maintaining a well-organized execution order.
-
-- **Efficient Processing**: Applications requiring efficient and organized task execution, such as batch processing and data manipulation, can benefit from this service.
-
 ## Cleaning Up
 
 To remove the service binary, use the `make clean` command.
