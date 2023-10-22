@@ -1,5 +1,3 @@
-Certainly! Here's a README.md file for your project:
-
 # Arithmetic Progression Queue Service
 
 The Arithmetic Progression Queue Service is a tool for managing and calculating arithmetic progressions in a queue. Tasks are added to the queue and processed in the order they are received. The service allows for parallel execution of tasks, enhancing performance and efficiency.
