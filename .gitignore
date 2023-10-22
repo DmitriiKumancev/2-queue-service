@@ -1,0 +1,17 @@
+*.exe
+*.dll
+*.so
+*.dylib
+
+*.test
+
+*.out
+
+.idea/
+.vscode/
+/go.sum
+/go.mod
+*.log
+
+/vendor/
+/Godeps/
